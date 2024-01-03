@@ -1,0 +1,11 @@
+/* Add this CSS in your stylesheet to define the hover effect */
+.lab-ul li:hover {
+    background-color:rgb(134, 101, 101);
+    color: white;
+  }
+/* Add this CSS in your stylesheet */
+/* .lab-ul.active li:hover {
+    background-color: rgb(139, 89, 89);
+    color:white;
+  }
+     */
